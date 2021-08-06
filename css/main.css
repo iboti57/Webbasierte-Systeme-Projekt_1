@@ -1,0 +1,602 @@
+.prozess-text{
+    font-size: 25px;
+    margin-top: 30px;
+    text-align: left;
+    color:#A39183 ;
+}
+/*footer links*/
+footer div.container div.row a{
+    color: #A39183;
+    font-size: 20px;
+    margin: 6px 0px;
+    font-weight: 100;
+} 
+i{
+    color: #79A4AB
+}
+button{
+    background-color: #79A4AB;
+}
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.garamond{
+    font-family: 'EB Garamond', serif;
+}
+.right{
+    display: flex;
+    justify-content: flex-end;
+}
+.right .sign a{
+    margin-right: 100px;
+    color: #A39183;
+}
+.right .icon{
+    margin-right: 30px;
+}
+.nav-item a{
+    font-size: 20px;
+    margin-right:95px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    
+}
+
+.nav-item a:hover{
+    display:inline-block;
+    border-bottom:3px solid #efa870;
+    padding-bottom:5px !important;
+    
+}
+.top{
+    background-color:#f0f0f0 ;
+    padding: 20px;
+    background: linear-gradient(#f0f0f0 ,white 100%);
+}
+input[type=search] {
+    background-color: #f0f0f0;
+    color: white;
+    border: none;
+    border-radius: 0px;
+  }
+  .top-2{
+      padding: 15px;
+  }
+  #headerSection .overlay{
+      background-color:#f0f0f0 ;
+  }
+  #headerSection .overlay .container .row .col .title-image{
+      text-align: center;
+      border: 2px solid #9b9b9b;
+      position: relative;
+      margin-top: 80px;
+      margin-bottom: 80px;
+  }
+  /*text in Image*/
+  #headerSection .overlay .container .row .col .title-image .text-block{
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      font-size: 1.9vw;
+      text-align: center;
+      height: 100%;
+      color: white;
+      background-color: #79A4AB;
+      opacity: 0.8;
+      padding-top: 10%;
+      max-width: 16%;
+      padding-bottom: 10%;
+  }
+
+/*item of text"verkäufer werden..."*/
+
+#headerSection .container-fluid .row .col p.mittel{
+    font-size: 25px;
+    margin-top: 40px;
+    color: #A39183;
+    letter-spacing: 0.01em;
+    margin-bottom: 40px;
+}
+
+/*prozess images*/
+
+#headerSection .container-fluid .prozess img{
+    width: 190px;
+    border: 1px solid #9b9b9b;
+} 
+#headerSection .container-fluid .prozess .pfeil img{
+    width: 55px;
+    margin-top: 85px;
+    border: none;
+} 
+#headerSection .container-fluid div.prozess{
+    margin: 0 15px;
+}
+
+/*footer*/
+footer{
+    margin-top: 50px;
+    background-color:#f0f0f0 ;
+    background: linear-gradient(#f0f0f0 ,white 30%);
+}
+footer .container-fluid{
+    margin-left: 50px;
+}
+
+/*---------------------------------anleitungen------------------------------*/
+/*---------------------------------anleitungen------------------------------*/
+
+#header-section-maske-naehen div.overlay div.container-fluid{
+    background-color:#f0f0f0 ;
+    padding: 20px;
+    opacity: 0.5;
+}
+/*style of Anleitungen text*/
+
+.top-text{
+    font-weight: 900;
+    color: #A39183;
+    font-size: 35px;
+   
+}
+.zurück{
+    font-weight: bold; 
+  
+   color: #A39183; 
+   text-decoration: underline;
+   margin-top: 90px;
+   text-align: center;
+}
+.erste{
+    width: 400px;
+}
+.centerr{
+    text-align: center;
+}
+
+.anleitung{
+   font-weight: bold; 
+   color: #A39183; 
+   text-decoration: underline;
+   margin-top: 20px;
+   text-align: center;
+}
+
+/*style von first row von anleitung*/
+.first{
+    background-color: #f6f4f2;
+    margin-top: 30px;
+
+    padding: 50px 0px;
+}
+/*style von second row von anleitung*/
+.second{
+    background-color:#f0f0f0  ;
+    padding: 50px 0px;
+    border: 1px solid #eeeeee;
+}
+/*style von third row von anleitung*/
+.third{
+    background-color:#f6f4f2 ;
+    padding: 50px 0px;
+    
+}
+
+/*style von Anleitungs Image Text*/
+#header-section-maske-naehen div.overlay p{
+    color: #A39183;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+/*---------------------------------damen------------------------------*/
+/*---------------------------------damen------------------------------*/
+
+
+.bottom-text{
+    font-weight: 1000;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.container-damen{
+    position: relative;
+    width: 330px;
+}
+.bottom-center{
+width: 100%;
+padding: 12px;
+position: absolute;
+bottom: 0px;
+background-color: #79A4AB;
+opacity: 0.8;
+}
+
+
+
+
+/*---------------------------------merkliste------------------------------*/
+/*---------------------------------merkliste------------------------------*/
+
+
+.small{
+    background-color: #f0f0f0 ;
+    width: 1000px;
+}
+
+.big-text{
+    font-size: 20px;
+    color:#A39183 ;
+}
+.unter{
+    padding-top: 200px;
+}
+.merkliste-content{
+    background-color:#f0f0f0;
+    width: 70%;
+    margin-left:9%;
+}
+
+.im{
+    height: 230px;
+    width: 100%;
+    object-fit: cover;
+}
+.merkliste-text{
+    font-size: 20px;
+    color:#A39183 ;
+}
+.merkliste-icon{
+    margin-top: 160px;
+}
+.merkliste-text a{
+    color:#A39183 ;
+}
+.buton:hover{
+    border: none;
+}
+
+
+/*---------------------------------warenkorb------------------------------*/
+/*---------------------------------warenkorb------------------------------*/
+.kasse{
+    width: 300px !important;
+    padding: 10px !important;
+    border: none !important;
+    background-color: #79A4AB !important;
+    font-size: 28px !important;
+    color: white !important;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: 2px !important;
+}
+
+
+.war-footer{
+    margin-top: 280px !important;
+}
+
+.warenkorb-overlay{
+    padding-left: 110px;
+    padding-right: 60px;  
+}
+.warenkorb-content{
+    margin-top: 4rem;
+}
+.maske-content{
+    display: flex;
+    height: 220px;
+    margin-top:4rem;
+   
+}
+.maske-content-small{
+    display: flex;
+    height: 100%;
+}
+.no-margin{
+    margin-top: 0 !important;
+}
+.margin-4rem{
+    margin-top: 4rem;
+}
+.maske-image{
+    height: 100%;
+}
+.maske-right{
+    display: flex;
+    width: 450px;
+    height: 100%;
+    justify-content: space-between;
+    background-color: #f0f0f0;;
+}
+.maske-text{
+    font-family: 'EB Garamond', serif;
+    color:#A39183 ;
+    font-size: 19px;
+}
+.maske-icon{
+    display: grid;
+}
+.image-end{
+    margin-top: 100px;
+}
+.maske-anzahl select{
+    font-family: 'EB Garamond', serif;
+    color:#A39183 ;
+    font-size: 19px;
+    width: 110px;
+    padding-left: 10px;
+
+}
+
+.maske-bestellung{
+    background-color: #f0f0f0;;;
+    height: 284px;
+    width: 300px;
+    margin-left: 90px;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    color:#A39183 ;
+    font-size: 19px;
+}
+
+/*---------------------------------FAQ------------------------------*/
+/*---------------------------------FAQ------------------------------*/
+
+
+.faq-text{
+    font-family: 'EB Garamond', serif;
+    color:#A39183 ;
+    font-size: 19px;
+}
+.faq-überschrift{
+    font-weight: 350;
+    color: #A39183;
+    font-size: 25px;
+}
+
+
+/*---------------------------------Login------------------------------*/
+/*---------------------------------Login------------------------------*/
+
+
+
+.login-überschrift{
+    font-weight: 350;
+    color: #A39183;
+    font-size: 34px;
+    text-align: center;
+}
+.register{
+    background-color:#f0f0f0 ;
+}
+#login span{
+    font-family: 'EB Garamond', serif;
+    color:#A39183 ;
+    font-size: 19px;
+}
+
+#login input{
+   border: none;
+   width: 100%; 
+}
+#login input[class*="mt-4"]{
+    width: auto;
+    
+}
+.login-button{
+width: 100%;
+margin-top: 50px;
+border: none;
+}
+#login span.login-text{
+    color: white;
+    font-size: 26px;
+    letter-spacing: 1px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+
+}
+.einlog{
+    margin-top: 322px;
+}
+
+
+/*---------------------------------Filter------------------------------*/
+/*---------------------------------Filter------------------------------*/
+
+
+.filter-text{
+    font-size: 35px !important;
+    
+}
+#filter label span{
+    display: inline-block;
+   width: 100px !important;
+   color: #A39183;
+   font-family: 'EB Garamond', serif;
+   font-size: 20px;
+}
+#filter p{
+    color: #A39183;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+
+p.filter-text{
+    color: #A39183;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.item-option{
+    color:  #f0f0f0 !important;
+    font-size: 1px;
+}
+.ergebnis{
+    font-size: 19px;
+}
+
+.filter-maske{
+    background-color:  #f0f0f0;
+    display: inline-block;
+}
+.under-text{
+    margin: 0;
+}
+
+.sortieren{
+    margin-bottom: 38px;
+}
+
+
+/*---------------------------------Check-Out------------------------------*/
+/*---------------------------------Check-Out------------------------------*/
+
+
+#check-out span{
+    font-size: 20px;
+    color: #A39183;
+    font-family: 'EB Garamond', serif;
+}
+.vorname{
+    width: 55% !important;
+}
+.nachname{
+    width: 45% !important;
+}
+.strasse{
+    width: 100%;
+}
+.info-text{
+    font-size: 30px;
+    font-family: 'EB Garamond', serif;
+    color: #A39183;
+}
+.info-div{
+    background-color: #f0f0f0;
+    height: 905px;
+}
+#check-out input{
+    border: none;
+}
+.check{
+    border: 1px solid yellow
+}
+.bestellung-uberschrift{
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+
+}
+.bestellung-text{
+    font-size: 30px;
+    font-family: 'EB Garamond', serif;
+    color: #A39183;
+}
+.bestellung-content{
+    align-items: center;
+}
+.pp{
+    background-color:#f0f0f0 ;
+    border: 1px solid black;
+}
+.b-small-text{
+    font-size: 14px;
+    color: #A39183;
+    font-family: 'EB Garamond', serif;
+}
+.preis{
+    color: #A39183;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+}
+
+.preis-text p{
+    font-size: 20px;
+    color: #A39183;
+    font-family: 'EB Garamond', serif;
+
+}
+.preis-text{
+    border: 1px solid black;
+}
+.gesamt-summe p{
+    font-size: 25px;
+    color: #A39183;
+    font-family: 'EB Garamond', serif;
+}
+.gesamt-summe{
+    border: 1px solid black;
+    background-color: #f0f0f0;
+}
+.bestellen-button{
+    width: 100%;
+    padding-top: 25px;
+    border: none;
+}
+.bestellen-button button p{
+    font-size: 160%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+
+
+
+/*---------------------------------Bestellebstätigung------------------------------*/
+/*---------------------------------Bestellebstätigung------------------------------*/
+
+
+
+
+.e-mail{
+    font-size: 35px;
+    font-family: 'EB Garamond', serif;
+    color: #A39183;
+    margin-top: 30px;
+    margin-bottom: 37px;
+}
+.community{
+    font-size: 27px;
+    font-family: 'EB Garamond', serif;
+    color: #A39183;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.bestellung-image{
+    object-fit: cover;
+}
+
+.centered {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-size: 35px;
+   background-color: white;
+   font-family: 'Montserrat', sans-serif;
+   opacity: 0.3;
+   padding: 10px;
+   font-weight: 1000;
+   padding-left: 30px;
+   padding-right: 30px;
+    
+
+}
+.bestellung-image-text{
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
